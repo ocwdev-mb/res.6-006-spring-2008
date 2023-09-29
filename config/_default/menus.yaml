@@ -1,0 +1,13 @@
+leftnav:
+- identifier: c5dc6251-78e7-d9d2-f476-0d31f969a138
+  name: Demonstrations in physical optics
+  pageRef: /pages/demonstrations-in-physical-optics
+  weight: 10
+- identifier: f31e0ead-d271-7463-6abf-bbb7dc442664
+  name: Demonstrations in laser fundamentals
+  pageRef: /pages/demonstrations-in-laser-fundamentals
+  weight: 20
+- identifier: 9edfb269-9ea7-e9f7-c502-540989451962
+  name: Related courses
+  pageRef: /pages/related-courses
+  weight: 30
